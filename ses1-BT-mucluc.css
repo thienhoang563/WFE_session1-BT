@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 20px;
+    background: white;
+}
+.header {
+    /*height: 100px;*/
+    /*width: 100%;*/
+    padding: 30px;
+    background: aqua;
+    text-align: left;
+    margin-right: 20px;
+}
+.category {
+    padding: 20px;
+    background: floralwhite;
+    float: left;
+    width: 15%;
+    margin-top: 20px;
+}
+.card {
+    text-align: left;
+    background: white;
+}
+.content {
+    padding: 20px;
+    background: white;
+    float: left;
+    width: 85%;
+}
+.card1 {
+    height: 350px;
+    padding: 20px;
+    background: wheat;
+    margin-bottom: 20px;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+.footer {
+    /*padding: 20px;*/
+    height: 100px;
+    text-align: center;
+    background: #ddd;
+    margin-right: 20px;
+    clear: both;
+}
+
